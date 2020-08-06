@@ -19,3 +19,9 @@
 ## Goto localhost:3000
 
 ## Duplicate tab or share the link with room id to join other participants
+
+## Use Ngrok to get a temporary link and share the link
+
+## Goto cd Downloads/ and run 
+
+```./ngrok http 3000``` 
